@@ -1,2 +1,2 @@
 # COMP250-Introduction-to-Computer-Science
-First course in McGill sequence covering CS basics including common algorithms/data structures, Big-O notation, and high-level problem solving. All code written in Java.
+Mathematical tools (binary numbers, induction, recurrence relations, asymptotic complexity, establishing correctness of programs), Data structures (arrays, stacks, queues, linked lists, trees, binary trees, binary search trees, heaps, hash tables), Recursive and non-recursive algorithms (searching and sorting, tree and graph traversal). Abstract data types, inheritance. Selected topics.
